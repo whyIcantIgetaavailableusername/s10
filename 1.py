@@ -65,7 +65,8 @@ if st.button('Đặt hàng', use_container_width=True):
   st.text(f'''Cỡ, {des}
 Thêm: {them_des}
 Topping: {Topping_des}
-{Ghichu}Số lượng: {amount}
+{Ghichu}
+Số lượng: {amount}
 Thành tiền: {price}
 ''')
 
